@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  provider: ^4.1.3
+  provider: any
 
 dev_dependencies:
   flutter_test:
